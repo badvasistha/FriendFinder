@@ -71,6 +71,7 @@ var friends = [
     },
     {
       name: "Lou Ritter",
+      // a comment thing
       photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
       scores: [
         "4",
