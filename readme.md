@@ -22,3 +22,9 @@ The application will now be running locally on PORT, in this case that is port 8
 
 Webpage Link:  https://badvasistha.github.io/FriendFinder/
 Portfolio with the project link: https://badvasistha.github.io/Portfolio/
+
+![alt text](app/public/assets/images/friendfinder1.png)
+
+![alt text](app/public/assets/images/friendfinder2.png)
+
+![alt text](app/public/assets/images/friendfinder3.png)
